@@ -1,4 +1,4 @@
-# Perkd Membership Shopify
+# Shopify CLI (node) Typescript and Tailwind Boilerplate
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 [![Build Status](https://travis-ci.com/Shopify/shopify-app-node.svg?branch=master)](https://travis-ci.com/Shopify/shopify-app-node)
@@ -29,7 +29,7 @@ npm run dev
 ### Tunnel via Ngrok server
 
 ```sh
-ngrok http -subdomain=perkd-dev 8081
+ngrok http -subdomain=local-dev 8081
 ```
 
 ## Environment Setup
@@ -44,7 +44,7 @@ HOST={your_tunnel_host}
 ## Shop Installation
 
 ```sh
-https://perkd-dev.ngrok.io/auth?shop={your-shop-name}.myshopify.com
+https://local-dev.ngrok.io/auth?shop={your-shop-name}.myshopify.com
 ```
 
 ## Requirements
