@@ -1,8 +1,16 @@
 {
-  "name": "shopify-app-node",
-  "version": "1.0.0",
-  "description": "Shopify's node app for CLI tool",
-  "scripts": {
+  "name": "perkd-membership-shopify-app",
+  "description": "Perkd Membership Shopify app ",
+  "engines": {
+    "node": "12.22.x"
+  },
+  "contributors": [
+    {
+      "name": "Joel Pablo",
+      "email": "joel@waveo.com"
+    }
+  ],
+ "scripts": {
     "test": "jest",
     "dev": "cross-env NODE_ENV=development nodemon ./server/index.js --watch ./server/index.js",
     "build": "NEXT_TELEMETRY_DISABLED=1 next build",

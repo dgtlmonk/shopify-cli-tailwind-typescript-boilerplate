@@ -69,8 +69,6 @@ https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast
 
 ---
 
----
-
 ## Conventional Commits
 
 ### A specification for adding human and machine-readable meaning to commit messages
