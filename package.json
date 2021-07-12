@@ -1,13 +1,13 @@
 {
-  "name": "perkd-membership-shopify-app",
-  "description": "Perkd Membership Shopify app ",
+  "name": "boilerplate-shopify-app",
+  "description": "Shopify node app boilerplate in Typescript and TailwindCSS",
   "engines": {
     "node": "12.22.x"
   },
   "contributors": [
     {
       "name": "Joel Pablo",
-      "email": "joel@waveo.com"
+      "email": "dgtlmonk@gmail.com"
     }
   ],
   "scripts": {
@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/perkd/shopify-membership.git"
+    "url": "git+https://github.com/dgtlmonk/shopify-cli-tailwind-typescript-boilerplate.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perkd/shopify-membership/issues"
+    "url": "https://github.com/dgtlmonk/shopify-cli-tailwind-typescript-boilerplate/issues"
   },
   "dependencies": {
     "@babel/core": "7.12.10",
