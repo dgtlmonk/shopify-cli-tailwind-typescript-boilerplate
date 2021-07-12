@@ -18,12 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-app-node.git"
+    "url": "git+https://github.com/perkd/shopify-membership.git"
   },
-  "author": "Shopify Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shopify/shopify-app-node/issues"
+    "url": "https://github.com/perkd/shopify-membership/issues"
   },
   "dependencies": {
     "@babel/core": "7.12.10",
