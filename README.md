@@ -26,7 +26,7 @@ Make sure that you first complete these setup instructions:
 npm run dev
 ```
 
-### Tunnel via Ngrok server
+### Tunnel via Ngrok server (optional - you need Basic ngrok account Plan)
 
 ```sh
 ngrok http -subdomain=local-dev 8081
