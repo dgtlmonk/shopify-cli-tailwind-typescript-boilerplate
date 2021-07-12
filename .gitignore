@@ -1,5 +1,7 @@
 # Environment Configuration
-.env
+.env.local
+.env.dev
+.env.prod
 
 # Dependency directory
 node_modules
@@ -19,3 +21,4 @@ config/tunnel.pid
 
 # next build output
 .next/
+build/
